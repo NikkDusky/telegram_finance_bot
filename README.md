@@ -1,2 +1,2 @@
-# telegram_finance_bot
-finance bot
+# Telegram Finance Bot
+Считаем свои траты.
